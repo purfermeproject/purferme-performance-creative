@@ -32,7 +32,7 @@ If a brief can't answer all four parts of that question (**stop**, **care**, **b
 |---|---|---|
 | 1 | [`00-master-framework.md`](00-master-framework.md) | The 15-step persuasion sequence every ad draws from |
 | 2 | [`01-consumer-tensions.md`](01-consumer-tensions.md) | The 38 real-life tensions we start ads from |
-| 3 | [`02-angle-library.md`](02-angle-library.md) | 32 creative angles, fully built out |
+| 3 | [`02-angle-library.md`](02-angle-library.md) | 35 creative angles, fully built out |
 | 4 | [`products/`](products/) | One framework per product (they are **not** the same campaign) |
 | 5 | [`04-ugc-script-system.md`](04-ugc-script-system.md) | Timed script templates for 15/30/45/60s, plus product-reveal rules |
 | 6 | [`05-static-ad-system.md`](05-static-ad-system.md) | 17 static formats with layouts and copy rules |
